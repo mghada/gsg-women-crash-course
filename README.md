@@ -1,4 +1,4 @@
-# GSG-CA-G8
+# Code Academy - Women's Crash Course
 
 ## Important dates - G8 Timeline 
 1. Expression of Interest window: 1 August - 30 October
