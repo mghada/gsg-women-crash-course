@@ -9,12 +9,12 @@
 7. G8 Week 1 start: 12 January
 
 ## Support mentors committee: 
-Ahmed Shatat;
-Shorouq Saad;
-Israa Sulaiman;
-Mohammed A. Mhadi
-Nadia Khatib (optional);
-Walaa Mohtasib (optional);
+Ahmed Shatat; <br>
+Shorouq Saad; <br>
+Israa Sulaiman; <br>
+Mohammed A. Mhadi; <br> 
+Nadia Khatib (optional); <br>
+Walaa Mohtasib (optional); <br>
  
 
 ## [WIP] Interest call out 
@@ -43,7 +43,9 @@ This opportunity is open for females who are:
 2. Deep dive in JavaScript core concepts through practical pair/team projects and working on your problem solving skills.
 3. Our main goal is to get you to a good level to join the Code Academy.
 
-So if you share the same goal as we do, come on and join us!! 
+
+### So if you share the same goal with us, come on and join in - Fill out [our application here](https://forms.gle/9Uj3Co5xxTFuwAyMA)  
+
 
 Good luck! 
 
