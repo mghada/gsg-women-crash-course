@@ -44,7 +44,7 @@ This opportunity is open for females who are:
 3. Our main goal is to get you to a good level to join the Code Academy.
 
 
-### So if you share the same goal with us, come on and join in - Fill out [our application here](https://forms.gle/9Uj3Co5xxTFuwAyMA)  
+### So if you have the same goal as we do, fill out [our application here](https://forms.gle/9Uj3Co5xxTFuwAyMA)  
 
 
 Good luck! 
