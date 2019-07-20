@@ -23,7 +23,8 @@ Walaa Mohtasib (optional); <br>
 ## [WIP] expression of Interest call out 
 This opportunity is open for females who are:
 * Previous CA applicants/interviewees
-* Interested to join the Code Academy and are still working on improving their skills but they fit the criteria we are looking for (see requirements below) 
+* Interested to join the Code Academy and are still working on improving their skills but they fit the criteria we are looking for (see requirements below)
+* Priority will be given to those who fulfill the basic requirements and are university seniors or have already graduated. 
 
 
 ## Basic requirements: (Being a female who has:)
