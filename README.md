@@ -30,7 +30,7 @@ This opportunity is open for females who are:
 
 ## Basic requirements: (Being a female who has:)
 1. Good understating of HTML5, CSS3 and Basics of JS.  
-    * Have a minimum score of **250** on FreeCodeCamp. 
+    * Minimum score of **250** on FreeCodeCamp. 
 2. Availability and commitment to the part-time crash course.
     * Making sure you are available and committed to the 8-week part time course (see time commitment below).  
     * Commitment to submitting assignments as per requested by the course mentors. 
