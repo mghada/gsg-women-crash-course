@@ -3,8 +3,7 @@
 
 ## Important dates - G8 Timeline 
 1. Expression of Interest window: 1 August - 30 October
-2. Technical tasks deadline: 16 November
-3. Admin interlude between application and 4. Interviews: 17-21 November
+3. Interviews: 17-21 November
 5. Week 0: 15 December - 19 December
 6. FINAL selection complete: 21 December
 7. G8 Week 1 start: 12 January
