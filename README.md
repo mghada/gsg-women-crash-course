@@ -20,7 +20,7 @@ Mohammed A. Mhadi; <br>
  
 ## Basic requirements: (Being a female who has:)
 1. Good understating of HTML5, CSS3 and Basics of JS.  
-    * Have a minimum score of **250** on FreeCodeCamp. 
+    * Minimum score of **250** on FreeCodeCamp. 
 2. Availability and commitment to the part-time crash course.
     * Making sure you are available and committed to the 8-week part time course (see time commitment below).  
     * Commitment to submitting assignments as per requested by the course mentors. 
@@ -37,7 +37,7 @@ Mohammed A. Mhadi; <br>
 1. Enhancing your existing knowledge in HTML5 and CSS3 through research and peer lead and project-based learning. 
 2. Deep dive in JavaScript core concepts through practical pair/team projects and working on your problem solving skills.
 3. Self-learning and ability to conduct research. 
-3. Our main goal is to get you to a good level to join the Code Academy.
+4. Our main goal is to get you to a good level to join the Code Academy.
 
 ## Course Outline
 [These are topics you will learn each week](https://docs.google.com/document/d/1D4gE1DmteqNSZLICZh-kK-7qGrt62xfDz1eh2n3mQ7I/edit?ts=5d359f77)  
