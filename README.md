@@ -11,21 +11,13 @@
 ## Support mentors committee: 
 Ahmed Shatat; <br>
 Shorouq Saad; <br>
+Haneen Shahwan; <br>
 Israa Sulaiman; <br>
 Ahmed Abdel-latif; <br>
 Fatma Siam; <br>
 Jamalat Shamallakh; <br>
 Mohammed A. Mhadi; <br> 
-Nadia Khatib (optional); <br>
-Walaa Mohtasib (optional); <br>
  
-
-## [WIP] expression of Interest call out 
-This opportunity is open for females who are:
-* Previous CA applicants/interviewees
-* Interested to join the Code Academy and are still working on improving their skills but they fit the criteria we are looking for (see requirements below) 
-
-
 ## Basic requirements: (Being a female who has:)
 1. Good understating of HTML5, CSS3 and Basics of JS.  
     * Have a minimum score of **250** on FreeCodeCamp. 
@@ -44,10 +36,11 @@ This opportunity is open for females who are:
 ## What you will learn
 1. Enhancing your existing knowledge in HTML5 and CSS3 through research and peer lead and project-based learning. 
 2. Deep dive in JavaScript core concepts through practical pair/team projects and working on your problem solving skills.
+3. Self-learning and ability to conduct research. 
 3. Our main goal is to get you to a good level to join the Code Academy.
 
-
-### So if you have the same goal as we do, fill out [our application here](https://forms.gle/9Uj3Co5xxTFuwAyMA)  
+## Course Outline
+[These are topics you will learn each week](https://docs.google.com/document/d/1D4gE1DmteqNSZLICZh-kK-7qGrt62xfDz1eh2n3mQ7I/edit?ts=5d359f77)  
 
 
 Good luck! 
