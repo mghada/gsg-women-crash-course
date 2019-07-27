@@ -40,7 +40,7 @@ Mohammed A. Mhadi; <br>
 4. Our main goal is to get you to a good level to join the Code Academy.
 
 ## Course Outline
-[These are topics you will learn each week](https://docs.google.com/document/d/1D4gE1DmteqNSZLICZh-kK-7qGrt62xfDz1eh2n3mQ7I/edit?ts=5d359f77)  
+Check out the Wiki tab on the repo ;)  
 
 
 Good luck! 
