@@ -1,4 +1,5 @@
-# Code Academy - Women's Crash Course
+# Code Academy - Women's Crash Course 
+[![Gitter](https://badges.gitter.im/gazaskygeeks/women-cc.svg)](https://gitter.im/gazaskygeeks/women-cc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Important dates - G8 Timeline 
 1. Expression of Interest window: 1 August - 30 October
