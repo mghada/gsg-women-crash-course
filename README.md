@@ -40,7 +40,7 @@ Mohammed A. Mhadi; <br>
 4. Our main goal is to get you to a good level to join the Code Academy.
 
 ## Course Outline
-Check out the Wiki tab on the repo ;)  
+Check out the Wiki tab on the repo for outline and course assignments ;)  
 
 
 Good luck! 
