@@ -2,6 +2,9 @@
 [![Gitter](https://badges.gitter.im/gazaskygeeks/women-cc.svg)](https://gitter.im/gazaskygeeks/women-cc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Important dates - G8 Timeline 
+
+![alt text](https://i.ibb.co/nmxr8Rs/Screen-Shot-2019-07-30-at-9-57-50-AM.png "Logo Title Text 1")
+
 1. Expression of Interest window: 1 August - 30 October
 3. Interviews: 24 November - 12 December 
 5. Week 0: 15 December - 19 December
